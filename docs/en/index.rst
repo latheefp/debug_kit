@@ -29,6 +29,8 @@ Then, you need to enable the plugin by executing the following line::
 Configuration
 =============
 
+// please mention which configuration file has to be edited. its difficult to identify which file you are talking about. 
+
 * ``DebugKit.panels`` - Enable or disable panels for DebugKit. You can disable any of the
   standard panels by::
 
